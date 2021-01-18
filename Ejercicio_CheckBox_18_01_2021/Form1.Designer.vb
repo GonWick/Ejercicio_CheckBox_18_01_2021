@@ -103,7 +103,7 @@ Partial Class Form1
         'Button3
         '
         Me.Button3.Enabled = False
-        Me.Button3.Location = New System.Drawing.Point(166, 223)
+        Me.Button3.Location = New System.Drawing.Point(166, 225)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(75, 23)
         Me.Button3.TabIndex = 7

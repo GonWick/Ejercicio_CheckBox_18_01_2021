@@ -31,7 +31,9 @@
             Button3.Enabled = True
         Else
             Button3.Enabled = False
+            Text = "Ejercicio CheckBox 18-01-2021"
         End If
+
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
